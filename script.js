@@ -15,7 +15,7 @@ Themebutton.addEventListener("click", () => {
 
 
 gallery.addEventListener("mouseover", () => {
-  gallery.src = "assests/images/Bluebonnets.JPG" alt="Bluebonnets"
+  gallery.src = "assests/images/Bluebonnets.JPG"
  });
 gallery.addEventListener("mouseout", () => {
   gallery.src = "assests/images/Clyde.jpeg"
