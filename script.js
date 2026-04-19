@@ -18,5 +18,5 @@ gallery.addEventListener("mouseover", () => {
   gallery.src = "./assets/images/IMG_2224.jpg";
  });
 gallery.addEventListener("mouseout", () => {
-  gallery.src = "./assets/images/Cylde.jpg"
+  gallery.src = "./assets/images/Cylde.jpeg"
 });
