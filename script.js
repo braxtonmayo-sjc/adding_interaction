@@ -15,8 +15,8 @@ Themebutton.addEventListener("click", () => {
 
 
 gallery.addEventListener("mouseover", () => {
-  gallery.src = "https://drive.google.com/thumbnail?id=14y1l77rJXRZVUwKf_7KaOyjcbi9UORaX";
+  gallery.src = "./assets/images/IMG_2224.jpg";
  });
 gallery.addEventListener("mouseout", () => {
-  gallery.src = "https://drive.google.com/thumbnail?id=1AYfoW1yHMA01QZXRuPEXC_uHFq9JMa-X"
+  gallery.src = "./assets/images/Cylde.jpg"
 });
