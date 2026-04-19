@@ -18,5 +18,5 @@ gallery.addEventListener("mouseover", () => {
   gallery.src = "assests/images/Bluebonnets.JPG"
  });
 gallery.addEventListener("mouseout", () => {
-  gallery.src = "assests/images/Clyde.jpeg"
+  gallery.src = "assests/images/Clyde.jpg"
 });
