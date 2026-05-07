@@ -1,0 +1,2 @@
+I added interactions of a button that allows you to toggle between dark and light modes and an image that changes when you hoover the mouse 
+over it. I created these interactions using the JavaScript event function. 
